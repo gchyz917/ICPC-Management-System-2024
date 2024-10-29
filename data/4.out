@@ -272,7 +272,7 @@ Team_DDP E Time_Limit_Exceed 224
 [Error]Query submission failed: cannot find the team.
 [Error]Query ranking failed: cannot find the team.
 [Info]Complete query submission.
-Team_DDP C Time_Limit_Exceed 242
+Team_DDP C Time_Limit_Exceed 242 //EXIST A PROBLEM
 [Error]Query ranking failed: cannot find the team.
 [Info]Complete query ranking.
 [Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
